@@ -8,4 +8,4 @@
 I'm fascinate by possibilities which gives you technology in boosting personal effectiveness.
 Currently, I've focused on exploring possibilities that comes with gen AI, also taking heavy interest in domain-driven-development  🚀.
 </p>
-You can also check my [LinkedIn profile](https://www.linkedin.com/in/rola-wojciech/).
+You can also check my <a href="https://www.linkedin.com/in/rola-wojciech/">LinkedIn profile</a>
